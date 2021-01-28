@@ -1,0 +1,134 @@
+a:hover {
+  color: #663f3f;
+}
+
+body {
+  max-width: 80%;
+  margin: 5% 10% 15% 10%;
+  background-color: #bbf1fa;
+  color: #663f3f;
+}
+
+h2 {
+  text-align: center;
+  margin: 2% auto 5% auto;
+  color: #ec4646;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  letter-spacing: .2rem;
+}
+
+h3, h4, h5, h6 {
+margin: 3% auto 3% auto;
+
+}
+
+
+
+h3 {
+  letter-spacing: .2rem;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  color: #663f3f;
+}
+
+
+
+h6 {
+  text-align: center;
+}
+
+hr {
+  border: 1px solid #51c2d5;
+  width: 80%;
+}
+
+p {
+  text-align: left;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content: stretch;
+}
+
+.children {
+  width: 20rem;
+  height: auto;
+  margin: 0 auto 3% auto;
+}
+
+.email {
+  font-family: 'Rochester', cursive;
+  font-size: 2rem;
+}
+
+
+.fresh-courses h4:hover {
+  color: #ec4646;
+}
+
+.handwriting {
+  font-family: 'Rochester', cursive;
+  font-size: 2rem;
+  text-align: center;
+  padding: 25% auto 25% auto;
+}
+
+
+.handwriting p {
+  color: #ec4646;
+  text-align: center;
+  padding: 3%;
+  margin-top: 8%;
+}
+
+.icon {
+  color: #51c2d5;
+}
+
+.icon:hover {
+  color: #663f3f;
+}
+
+.icons-bottom {
+  margin: 3% auto 3% auto;
+  color: #51c2d5;
+}
+
+.icons-top {
+  margin: 3% auto 3% auto;
+}
+
+.name {
+  text-align: center;
+  margin: 5% auto 5% auto;
+  font-family: 'Ubuntu', sans-serif;
+  letter-spacing: .2rem;
+
+}
+
+.name h4 {
+    font-weight: bold;
+}
+
+.previous-experiences p {
+  text-align: center;
+}
+
+.work-experiences h3 {
+  text-align: left;
+}
+
+.resume {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30rem;
+    font-weight: 600;
+    letter-spacing: .8rem;
+    color: #51c2d5;
+}
